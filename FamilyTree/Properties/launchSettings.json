@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "FamilyTree": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\temp\\data.txt"
+    }
+  }
+}
