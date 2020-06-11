@@ -23,7 +23,7 @@ Main parts of the system
 3- Program class
 	This is the console app entry which read the file and passes data to CommandRunner class 
 
-
+Also added windows binaries in the root(bin.zip) in case you had hard time building binaries 
 here is an example file
 
 ADD_CHILD Anga Chit Male
