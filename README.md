@@ -24,18 +24,4 @@ Main parts of the system
 	This is the console app entry which read the file and passes data to CommandRunner class 
 
 Also added windows binaries in the root(bin.zip) in case you had hard time building binaries 
-here is an example file
-
-ADD_CHILD Anga Chit Male
-ADD_PARTNER Chit Amba Female
-ADD_CHILD Anga Ish Male
-ADD_CHILD Anga Vich Male
-ADD_PARTNER Vich Lika Female
-ADD_CHILD Anga Aras Male
-ADD_PARTNER Aras Chitra Female
-ADD_CHILD Anga Satya Female
-ADD_PARTNER Satya Vyan Male
-GET_RELATIONSHIP Aras Siblings
-GET_RELATIONSHIP Satya Partner
-GET_RELATIONSHIP Lika Brother-In-Law
-GET_RELATIONSHIP Lika Sister-In-Law
+as well as and Example data file
